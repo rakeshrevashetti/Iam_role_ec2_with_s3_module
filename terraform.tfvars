@@ -1,0 +1,7 @@
+my_region        = "eu-west-1"
+bucket_name      = "rakeshrrs3bucket"
+my_iam_role      = "IamRole_EC2"
+my_ami           = "ami-0a007a006645e86ab"
+my_instnace_type = "t2.small"
+my_subnet_id     = "subnet-073517f5829834f57"
+my_vpc_id        = "vpc-05e9ad5a29ede8185"
